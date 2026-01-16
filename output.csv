@@ -1,0 +1,5 @@
+id,name,email,title,user_security_group,security_group_notes,user_team,last_sign_in_at,created_at,updated_at,is_test_contact,is_real_person,is_sso_required,Manager
+227,Customer Success,customersuccess@test.com,,Adminstrators,Unrestricted super users,,,18:38.1,19:11.6,f,f,f,John Smith
+747,Customer Success_Courtney Kraper,smb.departedreps.ck@test.com,,Sales Reps,Commission sales reps,SMB/MM Sales - The Sizzle Squad,,35:23.7,34:02.6,t,t,t,Mary Johnson
+739,Real Person1,real.person1@test.com,Salesforce Engineer,Adminstrators,Unrestricted super users,,,24/4/2025 14:03:15.226136,24/4/2025 14:03:15.226136,f,f,t,David Lee
+698,Real Person2,real.person2@test.com,Salesforce Engineer,Adminstrators,Unrestricted super users,,,23/10/2024 16:57:10.302166,23/10/2024 16:57:10.302166,f,t,t,
